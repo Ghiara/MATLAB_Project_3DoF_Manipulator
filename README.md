@@ -1,5 +1,5 @@
 # Example_code
-some code example for ability demonstration （MATLAB/Simulink, Python)
+some code example for ability demonstration for MATLAB/Simulink
 folder_1_MATLAB
   displayed some previous project tasks simulation by using MATLAB/Simulink
     1) a control loop for a test bench sample inspection, which used simulink to simulate the hardware level of the test bench, and used stateflow to program the detection process for process-oriented programming.
